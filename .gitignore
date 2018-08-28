@@ -1,0 +1,22 @@
+target/
+.idea/
+*.iml
+out/
+logs/
+.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+*.iws
+*.ipr
+mvnw
+*.cmd
+/.mvn
